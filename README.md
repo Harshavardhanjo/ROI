@@ -58,6 +58,7 @@ White bg <br/><br/>
 
 * Create a react-app using ```npx create-react-app my-app```.
 * Make a Virtual Environment for executing python files.
+* Run the following command ```pip install -r requirements.txt```
 
 ### Executing program
 
