@@ -49,6 +49,10 @@ White bg <br/><br/>
 * React-Router-dom
 * styled-components
 * react-router
+* OpenCv
+* flask_cors
+* imutils
+* numpy
 
 ### Installing
 
