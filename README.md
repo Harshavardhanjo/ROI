@@ -9,13 +9,26 @@ The application is built to detect "objects" in a virtually created "Region Of I
 
 ## **Front_End:**
 * User can create a ROI of their preference in a frame extracted from the Video_feed.
-* ![alt text]("https://i.ibb.co/tZCjwP4/BI.png")
+![alt text](https://github.com/Harshavardhanjo/ROI/blob/master/images/Capture.PNG?raw=true)
 
 ## **Back_End:**
-### The Processed Frame
-* ![alt text]("https://i.ibb.co/tZCjwP4/BI.png")
-### The ROI
-* ![alt text]("https://i.ibb.co/tZCjwP4/BI.png")
+### The Processed Frame <br/>
+Black bg <br/><br/>
+![alt text](https://github.com/Harshavardhanjo/ROI/blob/master/images/dst.png?raw=true)
+<br/>
+<br/>
+<br/>
+White bg <br/><br/>
+
+![alt text](https://github.com/Harshavardhanjo/ROI/blob/master/images/dst2.png?raw=true)
+<br/>
+<br/>
+<br/>
+### The ROI <br/><br/>
+![alt text](https://github.com/Harshavardhanjo/ROI/blob/master/images/mask.png?raw=true)
+<br/>
+<br/>
+<br/>
 
 ## **Detection:**
 ### Output
