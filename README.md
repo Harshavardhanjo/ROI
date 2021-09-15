@@ -77,6 +77,3 @@ White bg <br/><br/>
 Harshavardhan Jothi Kumar
 
 LinkdIn : https://www.linkedin.com/in/harshavardhan-jothi-kumar-259ba8185/
-
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
